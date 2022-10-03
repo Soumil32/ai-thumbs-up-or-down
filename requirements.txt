@@ -1,0 +1,8 @@
+opencv-python
+pyqt5
+lxml
+wget
+tensorflow
+pyyaml
+protobuf
+matplotlib
