@@ -6,3 +6,7 @@ tensorflow
 pyyaml
 protobuf
 matplotlib
+pytz
+pycocotools
+gin-config
+tensorflow-addons
